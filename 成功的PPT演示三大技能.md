@@ -54,6 +54,6 @@ impact - 有哪些预期效果
 
 ppt美化大师：http://meihua.docer.com 提供丰富模板，一键美化。
 
-ppt模板素材：(微软office官方在线模板)[http://www.officeplus.cn/Template/Home.shtml]、 (稻壳儿ppt)[http://www.docer.com]、 (优品ppt)[http://www.ypppt.com]
+ppt模板素材：[微软office官方在线模板](http://www.officeplus.cn/Template/Home.shtml)、 [稻壳儿ppt](http://www.docer.com)、 [优品ppt](http://www.ypppt.com)
 
 图片素材：全景网、阿里巴巴矢量图标库、创可贴
